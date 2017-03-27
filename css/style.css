@@ -1,0 +1,38 @@
+
+.Header {color: Red;
+  background-color: lightblue;
+left: 100px;
+right: 100px;}
+body { color: white;
+  background-image: repeating-linear-gradient(blue,black);
+  }
+
+img {float: right;}
+.Image {width: 200;
+        height: 200;
+        overflow: auto;
+        }
+
+#Head { font-style: oblique;
+  font-family: cursive;
+  font-weight: bolder;
+  clear: right;
+}
+
+#Head2 {
+  width: 200px;
+float: right;
+overflow: auto;
+border; 2px solid grey;
+border-bottom-style: dashed;}
+
+.was {
+ text-align-last: bottom;
+}
+
+#Head3 {
+  width: 200px;
+  float: left;
+  overflow: auto;
+  border; 2px solid green;
+  border-bottom-style: dashed;}
